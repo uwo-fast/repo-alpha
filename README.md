@@ -6,16 +6,16 @@
   <h1><a href="https://github.com/uwo-fast/repo-alpha"> Project's Name</a></h1>
   <!-- Labels: -->
   <p>
-    ![Collaborators](https://img.shields.io/badge/Collaborators-Welcome-brightblue)
-    ![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen)
-    ![License](https://img.shields.io/github/license/<username>/<repo>)
-    ![Repo Size](https://img.shields.io/github/repo-size/uwo-fast/repo-alpha)
-    ![Issues](https://img.shields.io/github/issues/uwo-fast/repo-alpha)
-    ![Last Commit](https://img.shields.io/github/last-commit/uwo-fast/repo-alpha)
-    ![Forks](https://img.shields.io/github/forks/uwo-fast/repo-alpha?style=social)
-    ![Stars](https://img.shields.io/github/stars/uwo-fast/repo-alpha?style=social)
-    ![Documentation](https://img.shields.io/badge/Documentation-Available-brightgreen?style=flat-square)
-    ![Issues](https://img.shields.io/github/issues/uwo-fast/repo-alpha?style=flat-square)
+    <img src="https://img.shields.io/badge/Collaborators-Welcome-brightblue" alt="Collaborators">
+    <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen" alt="Contributions">
+    <img src="https://img.shields.io/github/license/uwo-fast/repo-alpha" alt="License">
+    <img src="https://img.shields.io/github/repo-size/uwo-fast/repo-alpha" alt="Repo Size">
+    <img src="https://img.shields.io/github/issues/uwo-fast/repo-alpha" alt="Issues">
+    <img src="https://img.shields.io/github/last-commit/uwo-fast/repo-alpha" alt="Last Commit">
+    <img src="https://img.shields.io/github/forks/uwo-fast/repo-alpha?style=social" alt="Forks">
+    <img src="https://img.shields.io/github/stars/uwo-fast/repo-alpha?style=social" alt="Stars">
+    <img src="https://img.shields.io/badge/Documentation-Available-brightgreen?style=flat-square" alt="Documentation">
+    <img src="https://img.shields.io/github/issues/uwo-fast/repo-alpha?style=flat-square" alt="Issues">
   </p>
   <!-- Short description: -->
   <h3>Repository short description here</h3>
