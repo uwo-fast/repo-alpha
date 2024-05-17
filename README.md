@@ -6,12 +6,12 @@
   <h1><a href="https://github.com/uwo-fast/repo-alpha"> Project's Name</a></h1>
   <!-- Labels: -->
   <p>
-    <img src="https://img.shields.io/badge/Collaborators-Welcome-darkgreen" alt="Collaborators">
-    <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen" alt="Contributions">
-    <img src="https://img.shields.io/badge/Documentation-Unavailable-brightgreen?style=flat-square" alt="Documentation">
-    <img src="https://img.shields.io/badge/Appropedia-Project-blue" alt="Appropedia">
-    <img src="https://img.shields.io/badge/OSHWA-Certified-brightgreen?style=flat-square" height="20" alt="OSHWA Certified">
-    <img src="https://img.shields.io/badge/OSF-Project-blue" alt="OSF">
+    <img src="https://img.shields.io/badge/Collaborators-Welcome-lightgreen" alt="Collaborators">
+    <img src="https://img.shields.io/badge/Contributions-Welcome-lightgreen" alt="Contributions">
+    <img src="https://img.shields.io/badge/Documentation-Unavailable-brightred?style=flat-square" alt="Documentation">
+    <img src="https://img.shields.io/badge/Appropedia-Project-white" alt="Appropedia">
+    <img src="https://img.shields.io/badge/OSHWA-Certified-darkgreen?style=flat-square" height="20" alt="OSHWA Certified">
+    <img src="https://img.shields.io/badge/OSF-Project-lightblue" alt="OSF">
     <img src="https://img.shields.io/github/license/uwo-fast/repo-alpha" alt="License">
     <img src="https://img.shields.io/github/repo-size/uwo-fast/repo-alpha" alt="Repo Size">
     <img src="https://img.shields.io/github/issues/uwo-fast/repo-alpha" alt="Issues">
