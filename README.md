@@ -14,7 +14,7 @@
     <!-- img src="https://img.shields.io/badge/OSHWA-Pending-darkorange?style=flat-square" height="20" alt="OSHWA" -->
     <!-- img src="https://img.shields.io/badge/OSHWA-Incomplete-darkred?style=flat-square" height="20" alt="OSHWA" -->
     <img src="https://img.shields.io/badge/OSF-Project-lightblue" alt="OSF">
-    <img src="https://img.shields.io/badge/Paper-Unsubmitted-#ff0066" alt="Paper">
+    <img src="https://img.shields.io/badge/Paper-Unsubmitted-ff0066" alt="Paper">
   </p>
   <p>
     <img src="https://img.shields.io/github/license/uwo-fast/repo-alpha" alt="License">
