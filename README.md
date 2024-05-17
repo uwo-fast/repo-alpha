@@ -43,7 +43,7 @@
     <img src="https://img.shields.io/github/stars/uwo-fast/repo-alpha?style=social" alt="Stars">
   </a>
   <!-- Short description: -->
-  <h3>Repository short description here</h3>
+  <h3>[Repository short description here]</h3>
 </div>
 
 
