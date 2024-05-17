@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Collaborators-Welcome-lightgreen" alt="Collaborators">
     <img src="https://img.shields.io/badge/Contributions-Welcome-lightgreen" alt="Contributions">
     <img src="https://img.shields.io/badge/Documentation-Unavailable-brightred?style=flat-square" alt="Documentation">
-    <img src="https://img.shields.io/badge/Appropedia-Project-white" alt="Appropedia">
+    <img src="https://img.shields.io/badge/Appropedia-Lit-Review-white" alt="Appropedia">
     <img src="https://img.shields.io/badge/OSHWA-Certified-darkgreen?style=flat-square" height="20" alt="OSHWA Certified">
     <img src="https://img.shields.io/badge/OSF-Project-lightblue" alt="OSF">
     <img src="https://img.shields.io/github/license/uwo-fast/repo-alpha" alt="License">
