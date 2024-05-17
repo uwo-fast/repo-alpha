@@ -14,13 +14,12 @@
     <!-- img src="https://img.shields.io/badge/OSHWA-Pending-darkorange?style=flat-square" height="20" alt="OSHWA" -->
     <!-- img src="https://img.shields.io/badge/OSHWA-Incomplete-darkred?style=flat-square" height="20" alt="OSHWA" -->
     <img src="https://img.shields.io/badge/OSF-Project-lightblue" alt="OSF">
-    <img src="https://img.shields.io/badge/Paper-Unsubmitted-red" alt="Paper">
+    <img src="https://img.shields.io/badge/Paper-Unsubmitted-#ff0066" alt="Paper">
   </p>
   <p>
     <img src="https://img.shields.io/github/license/uwo-fast/repo-alpha" alt="License">
     <img src="https://img.shields.io/github/repo-size/uwo-fast/repo-alpha" alt="Repo Size">
     <img src="https://img.shields.io/github/issues/uwo-fast/repo-alpha" alt="Issues">
-    <img src="https://img.shields.io/github/last-commit/uwo-fast/repo-alpha" alt="Last Commit">
     <img src="https://img.shields.io/github/forks/uwo-fast/repo-alpha?style=social" alt="Forks">
     <img src="https://img.shields.io/github/stars/uwo-fast/repo-alpha?style=social" alt="Stars">
   </p>
