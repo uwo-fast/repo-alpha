@@ -36,9 +36,6 @@
   <a href="https://github.com/uwo-fast/repo-alpha/issues">
     <img src="https://img.shields.io/github/issues/uwo-fast/repo-alpha" alt="Issues">
   </a>
-  <a href="https://github.com/uwo-fast/repo-alpha">
-    <img src="https://img.shields.io/github/last-commit/uwo-fast/repo-alpha" alt="Last Commit">
-  </a>
   <a href="https://github.com/uwo-fast/repo-alpha/network/members">
     <img src="https://img.shields.io/github/forks/uwo-fast/repo-alpha?style=social" alt="Forks">
   </a>
