@@ -8,7 +8,7 @@
   <p>
     <img src="https://img.shields.io/badge/Collaborators-Welcome-lightgreen" alt="Collaborators">
     <img src="https://img.shields.io/badge/Contributions-Welcome-lightgreen" alt="Contributions">
-    <img src="https://img.shields.io/badge/Documentation-Unavailable-lightred?style=flat-square" alt="Documentation">
+    <img src="https://img.shields.io/badge/Documentation-Unavailable-cc3300?style=flat-square" alt="Documentation">
     <img src="https://img.shields.io/badge/Appropedia-Lit_Review-white" alt="Appropedia">
     <!-- img src="https://img.shields.io/badge/OSHWA-Certified-darkgreen?style=flat-square" height="20" alt="OSHWA" -->
     <!-- img src="https://img.shields.io/badge/OSHWA-Pending-darkorange?style=flat-square" height="20" alt="OSHWA" -->
